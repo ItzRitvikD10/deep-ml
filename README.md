@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 1 problems · 0 labs · 1 math
+**3** solved · 2 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-14 | [solution](problems/0024-single-neuron) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-14 | [solution](problems/0025-single-neuron-with-backpropagation) |
 
 ## Math
 
